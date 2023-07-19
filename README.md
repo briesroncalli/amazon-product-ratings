@@ -1,4 +1,4 @@
-# amazon-product-ratings
+# amazon-product-reviews
 
 ### avgRatings.py
 Basic spark application computing the total number of Amazon reviews and the average rating of each product & sorts by product ID.
